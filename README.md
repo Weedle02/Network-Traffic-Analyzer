@@ -10,13 +10,6 @@ A security monitoring system to detect malicious network activity using Python, 
 - Kibana dashboards for visualization
 - PCAP file analysis support
 
-## Repository Structure
-network-analyzer/
-elk-config/ # ELK Stack configurations
-network-analyzer/ # Python analyzer scripts
-sample_pcaps/ # Example traffic captures
-README.md
-
 ## Requirements
 
 - Python 3.8+
