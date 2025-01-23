@@ -12,10 +12,10 @@ A security monitoring system to detect malicious network activity using Python, 
 
 ## Repository Structure
 network-analyzer/
-├── elk-config/ # ELK Stack configurations
-├── network-analyzer/ # Python analyzer scripts
-├── sample_pcaps/ # Example traffic captures
-└── README.md
+elk-config/ # ELK Stack configurations
+network-analyzer/ # Python analyzer scripts
+sample_pcaps/ # Example traffic captures
+README.md
 
 ## Requirements
 
